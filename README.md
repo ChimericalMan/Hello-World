@@ -1,2 +1,5 @@
 # Hello-World
-My first repository on github.
+
+This is my first repository on GitHub :)
+
+I love 🍵 📚, and 🐶
